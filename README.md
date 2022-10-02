@@ -4,7 +4,7 @@ This is a cellular combat simulator built on the [cellular Potts model](https://
 You can read about it [here](https://james-simon.github.io/blog/cell-fight/).
 
 <video autoplay loop muted playsinline width="40%" style="display:block; margin: 0 auto;">
-    <source src="cell_fight.mp4" type="video/mp4">
+    <source src="https://james-simon.github.io/img/cell_fight/cell_fight.mp4" type="video/mp4">
 </video>
 
 Do you want to see four ameobas fight like gladiators for your amusement?
